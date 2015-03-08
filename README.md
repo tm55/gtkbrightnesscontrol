@@ -30,7 +30,7 @@ $ make
 and move manually the binary executable with ui file in your destination folder.
 
 ### Tips
-The tool have the following options:
+The tool has the following options:
 ```
 --widget-mode to set widget mode
 --background-color to set background color (e.g. "#FFFFFF" or "red" or "rgba(255,0,200,0.8)")
